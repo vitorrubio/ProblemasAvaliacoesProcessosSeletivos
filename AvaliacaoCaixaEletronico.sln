@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaliacaoCaixaCaixaEletronico", "AvaliacaoCaixaEletronico\AvaliacaoCaixaCaixaEletronico.csproj", "{22FDFACC-444F-48F7-8F4E-E7A7A43F3C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaliacaoCaixaEletronico.Test", "AvaliacaoCaixaEletronico.Test\AvaliacaoCaixaEletronico.Test.csproj", "{670CEA32-290C-47F5-A24D-3A2DC4003579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FDFACC-444F-48F7-8F4E-E7A7A43F3C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FDFACC-444F-48F7-8F4E-E7A7A43F3C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FDFACC-444F-48F7-8F4E-E7A7A43F3C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FDFACC-444F-48F7-8F4E-E7A7A43F3C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670CEA32-290C-47F5-A24D-3A2DC4003579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670CEA32-290C-47F5-A24D-3A2DC4003579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670CEA32-290C-47F5-A24D-3A2DC4003579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670CEA32-290C-47F5-A24D-3A2DC4003579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6B986E-D32F-4335-822D-DB8EB07F9188}
+	EndGlobalSection
+EndGlobal

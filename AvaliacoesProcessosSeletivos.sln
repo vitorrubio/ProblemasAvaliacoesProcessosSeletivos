@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaliacaoCaixaCaixaEletroni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaliacaoCaixaEletronico.Test", "CaixaEletronico\AvaliacaoCaixaEletronico.Test\AvaliacaoCaixaEletronico.Test.csproj", "{EB981777-9E35-4DD5-ADEA-F9215851010C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GeradorDeAnagramas", "GeradorDeAnagramas", "{5C93CCC3-0C7D-42CB-9D9C-75B1D4763A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagramas", "GeradorDeAnagramas\Anagramas\Anagramas.csproj", "{D1394884-F291-4E25-B250-A5C83F03D8AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,10 @@ Global
 		{EB981777-9E35-4DD5-ADEA-F9215851010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB981777-9E35-4DD5-ADEA-F9215851010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB981777-9E35-4DD5-ADEA-F9215851010C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1394884-F291-4E25-B250-A5C83F03D8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1394884-F291-4E25-B250-A5C83F03D8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1394884-F291-4E25-B250-A5C83F03D8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1394884-F291-4E25-B250-A5C83F03D8AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B6D92839-9C35-4485-8850-4FA1E11C346F} = {FC6EB1D0-6A94-4A97-9926-4C5EBAE2501E}
 		{EB981777-9E35-4DD5-ADEA-F9215851010C} = {FC6EB1D0-6A94-4A97-9926-4C5EBAE2501E}
+		{D1394884-F291-4E25-B250-A5C83F03D8AE} = {5C93CCC3-0C7D-42CB-9D9C-75B1D4763A60}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CE6B986E-D32F-4335-822D-DB8EB07F9188}
